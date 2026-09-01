@@ -72,6 +72,3 @@ One of the current development challenges is displaying uploaded images correctl
 **UniFind – Smart Lost & Found System**
 
 A university project developed using Flutter and Firebase.
-
-
-A university project
