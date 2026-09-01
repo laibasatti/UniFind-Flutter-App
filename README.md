@@ -74,5 +74,4 @@ One of the current development challenges is displaying uploaded images correctl
 A university project developed using Flutter and Firebase.
 
 
-
-A university project developed using Flutter and Firebase.
+A university project
